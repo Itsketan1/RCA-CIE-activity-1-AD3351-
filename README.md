@@ -1,7 +1,7 @@
-# Activity 2: Simple House Price Prediction
+# Activity 1 : Simple House Price Prediction
 
-**Course:** Machine Learning  
-**Unit:** Unit II – Supervised Learning: Regression  
+**Course:** Regression and Classification Algorithms 
+**Unit:** Unit I – Supervised Learning: Regression  
 **Department:** Artificial Intelligence & Data Science  
 **Institution:** Zeal College of Engineering and Research, Pune  
 **Academic Year:** 2026–27
