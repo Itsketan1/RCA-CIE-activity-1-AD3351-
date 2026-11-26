@@ -98,3 +98,4 @@ A Simple Linear Regression model was trained to estimate house prices from avera
 ---
 
 *Machine Learning – Activity 2: Simple House Price Prediction*
+GitHub Link -  https://github.com/complexiota. 
